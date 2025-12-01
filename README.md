@@ -1,4 +1,6 @@
 # AudioFeatureExplorer_MATLAB — Multi-Feature Audio Analysis Tool
+[![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)](LICENSE)
+![MATLAB](https://img.shields.io/badge/MATLAB-R2023b%2B-orange.svg)
 
 AudioFeatureExplorer_MATLAB is a MATLAB project that extracts and visualizes multiple time-varying audio features using the Audio Toolbox.  
 The script computes frame-based metrics such as spectral centroid, spectral flux, zero-crossing rate, short-time energy, and linear spectrum, and plots each feature across time for detailed analysis.
@@ -98,6 +100,23 @@ These methods form the basis of:
 | Short-Time Energy | `img/ShortTimeEnergy.png` |
 Each plot demonstrates how the feature evolves across time, enabling visual inspection of audio behavior without running a DAW or real-time analyzer.
 
+---
+
+### Real-Time Animated Feature Visualization
+
+<p align="center">
+  <img src="feature_plots.gif" alt="Animated feature plots" width="750">
+</p>
+The animated visualization shows how each feature evolves over time while the audio file is processed frame-by-frame, providing a real-time view of spectral and temporal changes.
+
+### Why this matters
+Real-time analysis like this is valuable in:
+- Machine-learning feature engineering
+- Music information retrieval (MIR)
+- Beat and onset detection systems
+- Adaptive DSP and effects automation
+- Dataset creation for deep learning on audio
+- Interactive audio / game-audio systems
 ---
 
 ## Requirements
