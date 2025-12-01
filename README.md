@@ -1,5 +1,5 @@
 # AudioFeatureExplorer_MATLAB — Multi-Feature Audio Analysis Tool
-![License MIT](https://img.shields.io/badge/License-MIT-green?style=flat-square)
+[![License MIT](https://img.shields.io/badge/License-MIT-green)](LICENSE)
 ![MATLAB](https://img.shields.io/badge/MATLAB-R2023b%2B-orange?style=flat-square)
 ![DSP](https://img.shields.io/badge/DSP-Audio%20Signal%20Processing-blue?style=flat-square)
 ![Audio Toolbox](https://img.shields.io/badge/Audio%20Toolbox-Enabled-purple?style=flat-square)
