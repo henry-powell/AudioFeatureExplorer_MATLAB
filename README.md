@@ -1,8 +1,10 @@
 # AudioFeatureExplorer_MATLAB — Multi-Feature Audio Analysis Tool
-[![License MIT](https://img.shields.io/badge/License-MIT-green)](LICENSE)
-![MATLAB](https://img.shields.io/badge/MATLAB-R2023b%2B-orange?style=flat-square)
-![DSP](https://img.shields.io/badge/DSP-Audio%20Signal%20Processing-blue?style=flat-square)
-![Audio Toolbox](https://img.shields.io/badge/Audio%20Toolbox-Enabled-purple?style=flat-square)
+[![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)](LICENSE)
+[![MATLAB](https://img.shields.io/badge/MATLAB-R2023b%2B-orange.svg)](https://www.mathworks.com/products/matlab.html)
+[![Audio DSP](https://img.shields.io/badge/Focus-Audio%20DSP-blue.svg)](#)
+![Portfolio Project](https://img.shields.io/badge/Project-Type%3A%20Portfolio-0057b7.svg)
+[![Feature Extraction](https://img.shields.io/badge/Topic-Audio%20Feature%20Extraction-9cf.svg)](#)
+![Audio Toolbox](https://img.shields.io/badge/Audio%20Toolbox-Enabled-purple.svg)
 ![Grad Program](https://img.shields.io/badge/Grad_Program-Audio_Technology_(M.A.)-6a1b9a.svg)
 ![University](https://img.shields.io/badge/American_University-Washington,_DC-002855.svg)
 
