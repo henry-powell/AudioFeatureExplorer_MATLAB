@@ -3,6 +3,8 @@
 ![MATLAB](https://img.shields.io/badge/MATLAB-R2023b%2B-orange?style=flat-square)
 ![DSP](https://img.shields.io/badge/DSP-Audio%20Signal%20Processing-blue?style=flat-square)
 ![Audio Toolbox](https://img.shields.io/badge/Audio%20Toolbox-Enabled-purple?style=flat-square)
+![Grad Program](https://img.shields.io/badge/Grad_Program-Audio_Technology_(M.A.)-6a1b9a.svg)
+![University](https://img.shields.io/badge/American_University-Washington,_DC-002855.svg)
 
 AudioFeatureExplorer_MATLAB is a MATLAB project that extracts and visualizes multiple time-varying audio features using the Audio Toolbox.  
 The script computes frame-based metrics such as spectral centroid, spectral flux, zero-crossing rate, short-time energy, and linear spectrum, and plots each feature across time for detailed analysis.
