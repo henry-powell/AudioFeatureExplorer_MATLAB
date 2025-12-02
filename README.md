@@ -147,6 +147,8 @@ AudioFeatureExplorer_MATLAB models techniques used in:
 - Adaptive DSP systems and content-aware effects
 - Emotion, genre, and spectral-profile recognition
 
+---
+
 © Henry Powell — MATLAB & Audio DSP Development
  
     
